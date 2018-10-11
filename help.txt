@@ -5,3 +5,11 @@ https://www.particle.io/
 https://www.sparkfun.com/products/13285
 
  https://iotrvc.github.io/rvciot.github.io/.
+ 
+ https://www.hackster.io
+ 
+ Temperature
+ https://www.hackster.io/moritz/measuring-temperature-and-humidity-with-particle-photon-f1c300
+ 
+ Control Lights
+ https://www.hackster.io/luigifcerfeda/control-adafruit-neopixels-using-python-and-jqwidgets-89c653
