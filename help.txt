@@ -13,3 +13,6 @@ https://www.sparkfun.com/products/13285
  
  Control Lights
  https://www.hackster.io/luigifcerfeda/control-adafruit-neopixels-using-python-and-jqwidgets-89c653
+ 
+ Notifications
+ https://pushover.net/
