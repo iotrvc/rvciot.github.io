@@ -1760,7 +1760,7 @@ body {
 .cid-r65qRMv4eI {
   padding-top: 60px;
   padding-bottom: 60px;
-  background-image: url("../../../assets/images/jumbotron.jpg");
+  background-image: url("../../../assets/images/mbr-1-1920x1280.jpg");
 }
 .cid-r65qV57sbY {
   padding-top: 60px;
@@ -1798,13 +1798,46 @@ body {
   height: 40px;
   border-radius: 50%;
 }
+.cid-r68Cznxq4Z {
+  padding-top: 90px;
+  padding-bottom: 90px;
+}
+.cid-r68Cznxq4Z h3 {
+  text-align: center;
+  font-weight: 300;
+}
+.cid-r68Cznxq4Z .wrap {
+  width: 150px;
+  height: 150px;
+  margin: 0 auto;
+}
+.cid-r68Cznxq4Z .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-r68Cznxq4Z .card {
+  -webkit-flex-basis: 100%;
+  flex-basis: 100%;
+  word-wrap: break-word;
+}
+.cid-r68Cznxq4Z ellipse {
+  stroke: rgba(206, 206, 206, 0.4);
+}
+.cid-r68Cznxq4Z path {
+  stroke: #149dcc;
+}
+@media (max-width: 991px) and (min-width: 768px) {
+  .cid-r68Cznxq4Z .card {
+    -webkit-flex-basis: 33%;
+    flex-basis: 33%;
+  }
+}
 .cid-r65nvCUhUW {
   padding-top: 75px;
   padding-bottom: 90px;
-  background-color: #f9f9f9;
+  background-image: url("../../../assets/images/mbr-1920x1152.jpg");
 }
 .cid-r65nvCUhUW .mbr-section-subtitle {
-  color: #767676;
+  color: #232323;
   font-weight: 300;
 }
 .cid-r65nvCUhUW .media-container-row {
@@ -1897,38 +1930,14 @@ body {
 .cid-r65nvCUhUW H4 {
   color: #073b4c;
 }
-.cid-r68Cznxq4Z {
-  padding-top: 90px;
-  padding-bottom: 90px;
+.cid-r65nvCUhUW .mbr-section-title {
+  color: #ffffff;
 }
-.cid-r68Cznxq4Z h3 {
-  text-align: center;
-  font-weight: 300;
+.cid-r65nvCUhUW .mbr-section-title B {
+  color: #ffffff;
 }
-.cid-r68Cznxq4Z .wrap {
-  width: 150px;
-  height: 150px;
-  margin: 0 auto;
-}
-.cid-r68Cznxq4Z .mbr-section-subtitle {
-  color: #767676;
-}
-.cid-r68Cznxq4Z .card {
-  -webkit-flex-basis: 100%;
-  flex-basis: 100%;
-  word-wrap: break-word;
-}
-.cid-r68Cznxq4Z ellipse {
-  stroke: rgba(206, 206, 206, 0.4);
-}
-.cid-r68Cznxq4Z path {
-  stroke: #149dcc;
-}
-@media (max-width: 991px) and (min-width: 768px) {
-  .cid-r68Cznxq4Z .card {
-    -webkit-flex-basis: 33%;
-    flex-basis: 33%;
-  }
+.cid-r65nvCUhUW .mbr-section-subtitle B {
+  color: #ffffff;
 }
 .cid-qTkAaeaxX5 {
   padding-top: 60px;
