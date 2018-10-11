@@ -1376,6 +1376,18 @@ body {
 .dropup .dropdown-toggle::after {
   display: none;
 }
+.cid-r6bl2sw0gw {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #ffd12f;
+}
+.cid-r6bl2sw0gw .mbr-text,
+.cid-r6bl2sw0gw blockquote {
+  color: #767676;
+}
+.cid-r6bl2sw0gw .mbr-text {
+  text-align: center;
+}
 .cid-qTkzRZLJNu .navbar {
   padding: .5rem 0;
   background: #333333;
@@ -1837,7 +1849,7 @@ body {
   background-image: url("../../../assets/images/mbr-1920x1152.jpg");
 }
 .cid-r65nvCUhUW .mbr-section-subtitle {
-  color: #232323;
+  color: #ffffff;
   font-weight: 300;
 }
 .cid-r65nvCUhUW .media-container-row {
