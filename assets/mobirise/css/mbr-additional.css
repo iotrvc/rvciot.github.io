@@ -1388,6 +1388,9 @@ body {
 .cid-r6bl2sw0gw .mbr-text {
   text-align: center;
 }
+.cid-r6bl2sw0gw .mbr-text P {
+  color: #149dcc;
+}
 .cid-qTkzRZLJNu .navbar {
   padding: .5rem 0;
   background: #333333;
@@ -1937,7 +1940,7 @@ body {
   color: #232323;
 }
 .cid-r65nvCUhUW P {
-  color: #232323;
+  color: #ffffff;
 }
 .cid-r65nvCUhUW H4 {
   color: #073b4c;
