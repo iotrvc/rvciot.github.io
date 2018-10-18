@@ -1,18 +1,29 @@
 https://www.hackster.io/hacksterhsv/ifttt-enabled-sensors-with-particle-photon-9422d8
 
+Project Ideas
+https://www.hackster.io
+
+
+Particle
 https://www.particle.io/
+
+ Notifications
+ https://pushover.net/
 
 https://www.sparkfun.com/products/13285
 
  https://iotrvc.github.io/rvciot.github.io/.
  
- https://www.hackster.io
+Motion Sensor
+ https://iotrvc.github.io/project1/
  
- Temperature
+What Time Is It?
+ https://www.hackster.io/monkbroc/what-should-i-wear-outside-81b6e4?f=1
+ 
+Control Lights
+https://www.hackster.io/luigifcerfeda/control-adafruit-neopixels-using-python-and-jqwidgets-89c653
+
+Temperature
  https://www.hackster.io/moritz/measuring-temperature-and-humidity-with-particle-photon-f1c300
+
  
- Control Lights
- https://www.hackster.io/luigifcerfeda/control-adafruit-neopixels-using-python-and-jqwidgets-89c653
- 
- Notifications
- https://pushover.net/
