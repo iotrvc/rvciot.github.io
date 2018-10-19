@@ -25,5 +25,8 @@ https://www.hackster.io/luigifcerfeda/control-adafruit-neopixels-using-python-an
 
 Temperature
  https://www.hackster.io/moritz/measuring-temperature-and-humidity-with-particle-photon-f1c300
+ 
+ Send Photos
+ https://www.hackster.io/middleca/sending-photos-and-video-over-the-internet-db583f
 
  
