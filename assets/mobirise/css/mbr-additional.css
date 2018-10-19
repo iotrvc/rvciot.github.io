@@ -1376,20 +1376,20 @@ body {
 .dropup .dropdown-toggle::after {
   display: none;
 }
-.cid-r6bl2sw0gw {
+.cid-r6VNOhJHqt {
   padding-top: 60px;
-  padding-bottom: 60px;
-  background-color: #073b4c;
+  padding-bottom: 90px;
+  background: linear-gradient(45deg, #5b686b, #3b0df4);
 }
-.cid-r6bl2sw0gw .mbr-text,
-.cid-r6bl2sw0gw blockquote {
-  color: #767676;
+.cid-r6VNOhJHqt .main {
+  flex-direction: row-reverse;
+  -webkit-flex-direction: row-reverse;
 }
-.cid-r6bl2sw0gw .mbr-text {
-  text-align: center;
+.cid-r6VNOhJHqt .main .mbr-section-btn {
+  text-align: right;
 }
-.cid-r6bl2sw0gw .mbr-text P {
-  color: #ffffff;
+.cid-r6VNOhJHqt .btn {
+  margin: 0 0 .5rem 0;
 }
 .cid-qTkzRZLJNu .navbar {
   padding: .5rem 0;
