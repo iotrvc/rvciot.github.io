@@ -36,7 +36,7 @@
     "siteFonts": [],
     "versionFirst": "4.7.6",
     "uniqCompNum": 27,
-    "versionPublish": "4.8.4",
+    "versionPublish": "4.9.7",
     "favicon": "",
     "noImageResize": "",
     "screenshot": "screenshot.png",
@@ -91,11 +91,11 @@
           "_name": "content1",
           "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffd12f\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".mbr-text\" data-multiline mbr-article><p><b>&nbsp;...Coming Summer I 2019</b></p><p><b><a href=\"https://www.rockvalleycollege.edu/Courses/search.cfm\" target=\"_blank\">Internet of Things Course (CIS290)</a></b></p></div>\n        </div>\n    </div>\n</section>",
           "_cid": "r6bl2sw0gw",
+          "_anchor": "content1-q",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "content1-q"
+          "_params": {}
         },
         {
           "_styles": {
