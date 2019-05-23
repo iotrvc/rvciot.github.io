@@ -41,7 +41,9 @@
     "versionPublish": "4.9.7",
     "favicon": "",
     "noImageResize": "",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "publishType": "local",
+    "publishPath": "file:///Users/charleskonkol/Documents/GitHub/rvciot.github.io"
   },
   "pages": {
     "index.html": {
