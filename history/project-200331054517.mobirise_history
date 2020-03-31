@@ -42,22 +42,18 @@
     "favicon": "",
     "noImageResize": "",
     "screenshot": "screenshot.png",
-    "": "on",
-    "robotsSwitcher": false,
-    "sitemapSwitcher": false,
-    "sitemapSwitcherAuto": false,
-    "siteUrl": "undefined"
+    "publishType": "local",
+    "publishPath": "file:///Users/charleskonkol/Documents/GitHub/rvciot.github.io"
   },
   "pages": {
     "index.html": {
       "settings": {
         "main": true,
         "title": "IOT@RVC",
-        "meta_descr": "Four week course: Programming Internet of Things offered at Rock Valley College.\n#IOT sklilled workers are need NOW. 20.4 billion IOT products in the marketplace. No Programming or iOT Skills Needed. ",
+        "meta_descr": "Internet of Things at Rock Valley College\nSummer 1 2019\nProfessor Chuck Konkol\n4 Saturdays = 4 iOT Projects!",
         "header_custom": "",
         "footer_custom": "",
-        "html_before": "",
-        "meta_image": "@PROJECT_PATH@/assets/images/mbr-1-1920x1280.jpeg"
+        "html_before": ""
       },
       "components": [
         {
